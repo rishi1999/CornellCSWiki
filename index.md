@@ -91,6 +91,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4120—Introduction to Compilers]({{ site.baseurl }}/classes/CS4120.html)
  - [CS 4121—Practicum in Compilers]({{ site.baseurl }}/classes/CS4121.html)
  - [[CS 4152]]—Advanced Topics in Computer Game Architecture
+ - [[CS 4154]]
  - [CS 4210—Numerical Analysis and Differential Equations]({{ site.baseurl }}/classes/CS4210.html)
  - [CS 4220—Numerical Analysis: Linear and Nonlinear Problems]({{ site.baseurl }}/classes/CS4220.html)
  - [[CS 4300]]—Information Retrieval
@@ -123,7 +124,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 5114]]—Network Programming Languages
  - [CS 5150—Software Engineering]({{ site.baseurl }}/classes/CS5150.html)
  - [[CS 5152]]
- - [[CS 5220]]—Applications of Parallel Computers
+ - [CS 5220—Applications of Parallel Computers]({{site.baseurl}}/classes/CS5220.html)
  - [[CS 5300]]—The Architecture of Large - Scale Information Systems
  - [CS 5412—Cloud Computing]({{ site.baseurl }}/classes/CS5412.html)
  - [[CS 5414]]—Distributed Computing Principles
@@ -140,7 +141,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ### 6000
  - [CS 6110—Advanced Programming Languages]({{ site.baseurl }}/classes/CS6110.html)
  - [[CS 6114]]—Network Programming Languages
- - [[CS 6117]]—Category Theory for Computer Scientists
+ - [[CS 6117]]
  - [[CS 6210]]—Matrix Computations
  - [[CS 6320]]—Advanced Database Systems
  - [[CS 6360]]
@@ -170,6 +171,11 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [INFO 4240](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4240)—Designing Technology for Social Impact
  - [INFO 4320](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4320)—Introduction to Rapid Prototyping and Physical Computing
  - [INFO 4430](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4430)—Teams and Technology
+
+### ORIE
+- [[ORIE 4740]]-Statistical Data Mining
+- [[ORIE 4741]]-Learning with Big Messy Data
+- [[ORIE 4742]]-Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
 
 ### ECE
 
